@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ahsan Mehmood 👋
 
-<!--
-**Ahsan-aspiring-analyst/Ahsan-aspiring-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | BSIT Student @ Superior University
 
-Here are some ideas to get you started:
+Based in Lahore, Pakistan. Passionate about transforming raw data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+* **SQL:** Joins, Subqueries, Stored Procedures, Aggregations, Window Functions
+* **Python:** Pandas, NumPy, Matplotlib, Seaborn, File Handling
+* **Data Visualization:** Power BI, Microsoft Excel
+* **Core Skills:** Data Cleaning, Exploratory Data Analysis (EDA), ETL Concepts
+
+---
+
+## 🚀 Projects
+
+---
+
+## 📫 Connect with me
+* **LinkedIn:** [linkedin.com/in/itsyourahsan](https://www.linkedin.com/in/itsyourahsan/)
+* **Email:** itsyourahsan@gmail.com
+* **Location:** Lahore, Pakistan
