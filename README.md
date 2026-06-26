@@ -15,7 +15,9 @@ Based in Lahore, Pakistan. Passionate about transforming raw data into meaningfu
 ---
 
 ## 🚀 Projects
-
+- **[Pokemon Data Cleaning and Analysis](https://github.com/Ahsan-aspiring-analyst/Pokemon-Data-Cleaning-and-Analysis)** 
+  — EDA and Data Cleaning on Pokemon dataset using Python & Pandas
+  
 ---
 
 ## 📫 Connect with me
